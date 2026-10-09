@@ -37,7 +37,7 @@ const config: ExpoConfig = {
   ],
   extra: {
     // Cole aqui o ID mostrado pelo comando "eas init".
-    eas: { projectId: process.env.EAS_PROJECT_ID || 'COLE_AQUI_O_EAS_PROJECT_ID' },
+    eas: { projectId: 'cc7ea164-b4fe-4200-b00d-b733dae6388a' },
   },
 };
 
