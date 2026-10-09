@@ -119,7 +119,7 @@ O upload *unsigned* não usa API Secret: o app não contém nenhuma credencial d
 
 - **Tecnologia:** Node.js 22 + Express 5 + TypeScript + Firebase Admin SDK
 - **Hospedagem:** Render (HTTPS automático)
-- **URL pública:** `https://SUA-API.onrender.com` ← **substituir pela URL após o deploy**
+- **URL pública:** `https://chat-firebase-api.onrender.com` ← **substituir pela URL após o deploy**
 
 ### Endpoints
 
